@@ -1,10 +1,15 @@
 
           <div class="publications">
-            <h2>job market paper</h2>
-            {% bibliography -f papers -q @*[abbr=jmp] %}
+            <h2>Publications</h2>
+            {% bibliography -f papers -q @*[abbr=publications] %}
           </div>
 
           <div class="publications">
-            <h2>work in progress</h2>
+            <h2>Working papers</h2>
+            {% bibliography -f papers -q @*[abbr=workingpapers] %}
+          </div>
+
+          <div class="publications">
+            <h2>Work in progress</h2>
             {% bibliography -f papers -q @*[type=work_in_progress] %}
           </div>
