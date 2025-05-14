@@ -3,7 +3,7 @@ layout: about
 permalink: 
 title: discussions
 description: x
-nav: true
+nav: false
 nav_order: 3
 ---
 
