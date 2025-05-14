@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: CA_edited_cropped.jpg
+  image: portrait.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
@@ -15,6 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome  to my website! I am an Economics PhD candidate at Harvard University. I work on energy and environmental topics, using tools from international trade and industrial organization. 
+Welcome  to my website! I am a Research Economist and Policy Advisor at the Dutch Central Bank, and an Economics PhD candidate at the University of Amsterdam. My research focuses on financial economics and macro-finance topics, in particular regarding the transmission of central bank balance sheet policies through financial markets.
 
-I am available for interviews in the 2024/25 Job Market. You can reach me at mabuin at g dot harvard dot edu. Check out my job market candidate website at [this link](https://sites.harvard.edu/constanza-abuin/).
+e-mail: t.a.carrera.de.souza [at] dnb.nl / t.a.carreradesouza [at] uva.nl
