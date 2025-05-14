@@ -1,6 +1,6 @@
 ---
 layout: 
-permalink: /assets/pdf/CV_Constanza_Abuin.pdf
+permalink: /assets/pdf/cv_tomas_carreradesouza.pdf
 title: cv
 nav: true
 nav_order: 1
